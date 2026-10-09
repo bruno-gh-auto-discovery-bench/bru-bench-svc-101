@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "fraud-payments-3",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
